@@ -14,7 +14,7 @@ import time
 #width and height on main screen
 SET_WIDTH=650
 SET_HEIGHT=470
-stream=cv2.VideoCapture("clip1.mp4")
+stream=cv2.VideoCapture("dhoni runout.mp4")
 def play(speed):
     global flag
     print(f"you clicked on play {speed}")
